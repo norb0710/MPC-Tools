@@ -1,0 +1,10 @@
+{
+    "Windows": {
+        "Microsoft Windows Server": "Windows On Demand cost"
+    },
+    "Linux": {
+        "Red Hat Enterprise Linux Server": "RHEL On Demand cost",
+        "CentOS Linux": "Linux On Demand cost",
+        "Amazon Linux": "Linux On Demand cost"
+    }
+}

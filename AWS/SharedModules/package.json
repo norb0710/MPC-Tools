@@ -1,0 +1,17 @@
+{
+  "name": "SharedModules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "authentication.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws": "0.0.3-2",
+    "aws-sdk": "^2.656.0",
+    "exceljs": "^3.8.1",
+    "shelljs": "^0.8.4"
+  }
+}
